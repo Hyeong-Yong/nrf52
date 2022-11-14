@@ -1,8 +1,18 @@
 /*
  * main.c
  *
- *  Created on: 2022. 11. 13.
- *      Author: hwang
+ *  Created on: Dec 31, 2021
+ *      Author: HYJH
  */
 
 
+#include "main.h"
+
+
+int main(void)
+{
+  hwInit();
+  apInit();
+  apMain();
+  return 0;
+}

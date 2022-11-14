@@ -1,13 +1,13 @@
 /*
  * main.h
  *
- *  Created on: 2022. 11. 13.
- *      Author: hwang
+ *  Created on: Dec 31, 2021
+ *      Author: HYJH
  */
 
 #ifndef SRC_MAIN_H_
 #define SRC_MAIN_H_
 
-
-
+#include "ap.h"
+#include "hw.h"
 #endif /* SRC_MAIN_H_ */
